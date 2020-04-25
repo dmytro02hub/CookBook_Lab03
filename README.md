@@ -1,4 +1,4 @@
-cd CookBook\client
+cd client
 <br/>
 npm i
 <br/>
